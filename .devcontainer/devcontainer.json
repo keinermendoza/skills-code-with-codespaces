@@ -9,7 +9,10 @@
       "extensions": [
         "ms-python.debugpy",
         "ms-python.python"
-      ]
+      ],
+      "settings": {
+        "workbench.colorTheme": "Default Dark+"
+      }
     }
   },
   "postCreateCommand": "bash .devcontainer/postCreate.sh"
